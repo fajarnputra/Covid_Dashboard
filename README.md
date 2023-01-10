@@ -15,5 +15,8 @@ MySQL file (importing data using MySQL Workbench)
 Final Data for Tableau (from querying)
 * Data_query_for_visualisation.xlsx
 
+Final dashboard result
+* https://public.tableau.com/views/Covid-19Dashboard_16733271143430/Dashboard1
+
 
 Project inspired form AlexTheAnalyst (https://www.youtube.com/watch?v=qfyynHBFOsM) but tailoring the SQL using MySQL language and Tableau Public. 
